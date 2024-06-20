@@ -1,0 +1,7 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\bin\Debug\HW_04_03_06_2024.exe.config
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\bin\Debug\HW_04_03_06_2024.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\bin\Debug\HW_04_03_06_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\obj\Debug\HW_04_03_06_2024.csproj.AssemblyReference.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\obj\Debug\HW_04_03_06_2024.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\obj\Debug\HW_04_03_06_2024.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_04_03_06_2024\obj\Debug\HW_04_03_06_2024.pdb
